@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410757101 source:c:\users\usuario\desktop\progra2\progra2_segundo parcial\tarea\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+

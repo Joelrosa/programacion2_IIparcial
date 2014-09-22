@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410302898 source:c:\users\usuario\desktop\progra2\progra2_segundo parcial\programa7arreglo de cadenas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

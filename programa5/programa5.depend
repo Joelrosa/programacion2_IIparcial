@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409261428 source:c:\users\usuario\desktop\progra2\progra2_segundo parcial\programa5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

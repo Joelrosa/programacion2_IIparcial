@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410390469 source:c:\users\usuario\desktop\progra2\progra2_segundo parcial\programa10compararcadenas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
